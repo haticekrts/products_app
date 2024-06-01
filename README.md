@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# products_app
-=======
 # products_app
 
 A new Flutter project.
