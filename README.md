@@ -1,7 +1,6 @@
 # products_app
-
-A new Flutter project.
 TR
+
 Bu projeyi Erciyes Üniversitesi Bilgisayar Mühendisliği Mobile Application Development course 2024 Spring season Term Project için geliştirdim.Projenin çalışma prensibi şu şekilde: ProductService sınıf ProductInterface sınıfndan kalıtım almakta. ProductInterface sınıfnda
 yer alan getAll() fonksiyonunu kalıtım alan ProductService sınıfnda içeriğini oluşturdum. Bu fonksiyon products endpointinden dönen JSON formaatındaki veriyi projede kullanabileceğim anlamlı bir yapıya dönüştürüyor. Bu anlamlı yapıyı ise ResponseModel adıyla oluşturduğum
 model sınıf kapsıyor. ResponseModel sınıf JSON datasındaki key değerlerine ve bu keylerin karşılıklarına erişebilmemi sağlıyor.
